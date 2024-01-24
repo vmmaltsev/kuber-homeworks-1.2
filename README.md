@@ -34,4 +34,4 @@ kubectl get pods
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_105.png)
 
-![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_107.png)
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_106.png)
