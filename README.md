@@ -35,3 +35,13 @@ kubectl get pods
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_105.png)
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_106.png)
+
+---
+
+Ссылка на манифест
+
+https://github.com/vmmaltsev/kuber-homeworks-1.2/blob/main/hello-world.yaml
+
+https://github.com/vmmaltsev/kuber-homeworks-1.2/blob/main/netology-svc.yaml
+
+https://github.com/vmmaltsev/kuber-homeworks-1.2/blob/main/netology-web.yaml
